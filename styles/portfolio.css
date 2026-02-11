@@ -14,6 +14,10 @@
     color: #FD6E0A;
 }
 
+.dark-02{
+    color: #474747;
+}
+
  /* Nav styles */ 
  nav{
     display: flex;
@@ -30,4 +34,5 @@
 
  nav li a{
     text-decoration: none;
+    font-size: 20px;
  }
