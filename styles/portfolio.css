@@ -9,6 +9,11 @@
     "wdth" 100;
 }
 
+/* shared style */
+.text-primary{
+    color: #FD6E0A;
+}
+
  /* Nav styles */
 
  nav{
