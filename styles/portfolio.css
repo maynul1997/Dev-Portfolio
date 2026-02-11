@@ -43,11 +43,18 @@
 
  nav ul{
     display: flex;
+    align-items: center;
 
  }
 
  .btn-primary{
     background-color: #FD6E0A;
     color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 18px 35px;
+
 
  }
