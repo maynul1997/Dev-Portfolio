@@ -14,8 +14,7 @@
     color: #FD6E0A;
 }
 
- /* Nav styles */
-
+ /* Nav styles */ 
  nav{
     display: flex;
  }
@@ -23,4 +22,8 @@
  .nav-title{
     font-weight: 900;
     font-size: 45px;
+ }
+
+ nav ul li{
+    list-style: none;
  }
