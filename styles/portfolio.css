@@ -126,4 +126,9 @@ main{
    border-radius: 10px;
    padding: 130px 150px;
    text-align: center;
+   margin-top: 130px;
+}
+
+.about-items{
+   display: flex;
 }
