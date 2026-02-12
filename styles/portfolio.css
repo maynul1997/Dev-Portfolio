@@ -18,10 +18,17 @@
     color: #474747;
 }
 
+.section-title{
+   font-size: 35px;
+   font-weight: bold;
+   color: #181818;
+}
+
 /* Header */
 .header{
-   background-image: url('../images/developer.png');
+   background-image: url('../images/developer.png'), url('../images/header_bg.png');
    background-repeat: no-repeat;
+   background-position: center left, bottom right;
 }
 
  /* Nav styles */ 
