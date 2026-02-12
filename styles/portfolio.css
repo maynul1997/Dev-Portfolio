@@ -131,4 +131,10 @@ main{
 
 .about-items{
    display: flex;
+   justify-content: space-around;
+}
+
+.item-title{
+   font-size: 20px;
+   color: #757575;
 }
