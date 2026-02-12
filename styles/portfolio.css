@@ -57,6 +57,20 @@
     padding: 18px 35px;
  }
 
+ /* banner styles */
+
  .banner{
    display: flex;
+ }
+
+ .banner-greetings{
+   font-weight: 700px;
+   font-size: 45px;
+
+ }
+
+ .banner-title{
+   font-weight: bold;
+   font-size: 85px;
+
  }
