@@ -9,7 +9,13 @@
     "wdth" 100;
 }
 
+
 /* shared style */
+
+.secondary-bg{
+   background-color: #FFF8F3;
+}
+
 .text-primary{
     color: #FD6E0A;
 }
@@ -24,11 +30,17 @@
    color: #181818;
 }
 
+.section-description{
+   font-size: 18px;
+   color: #757575;
+}
+
 /* Header */
 .header{
    background-image: url('../images/developer.png'), url('../images/header_bg.png');
    background-repeat: no-repeat;
    background-position: center left, bottom right;
+   /* margin: 40px; */
 }
 
  /* Nav styles */ 
@@ -102,3 +114,15 @@
  .banner-img{
    width: 580px;
  }
+
+/* Main style */
+main{
+   max-width: 1140px;
+   margin: 0 auto;
+}
+
+ /* About Styles */
+.about{
+   border-radius: 10px;
+   padding: 130px 150px;
+}
