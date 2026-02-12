@@ -64,7 +64,7 @@
  }
 
  .banner-greetings{
-   font-weight: 700px;
+   font-weight: 600px;
    font-size: 45px;
 
  }
@@ -73,4 +73,9 @@
    font-weight: bold;
    font-size: 85px;
 
+ }
+
+ .banner-description{
+   font-size: 18px;
+   color: #757575;
  }
