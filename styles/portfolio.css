@@ -18,12 +18,18 @@
     color: #474747;
 }
 
+/* Header */
+.header{
+   background-image: url('../images/developer.png');
+   background-repeat: no-repeat;
+}
+
  /* Nav styles */ 
  nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px 200px; 
+    margin: 0px 234px; 
  }
 
  .nav-title{
@@ -61,6 +67,8 @@
 
  .banner{
    display: flex;
+   justify-content: space-between;
+   margin: 0 35px 0 234px;
  }
 
  .banner-greetings{
@@ -78,4 +86,12 @@
  .banner-description{
    font-size: 18px;
    color: #757575;
+ }
+
+ .banner-content{
+   max-width: 580px;
+ }
+
+ .banner-img{
+   width: 580px;
  }
