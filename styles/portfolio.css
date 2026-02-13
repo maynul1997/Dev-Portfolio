@@ -28,11 +28,13 @@
    font-size: 35px;
    font-weight: bold;
    color: #181818;
+   text-align: center;
 }
 
 .section-description{
    font-size: 18px;
    color: #757575;
+   text-align: center;
 }
 
 /* Header */
@@ -146,3 +148,12 @@ main{
    color: #474747;
 }
 
+/* Skill part style*/
+
+.skills{
+   margin-top: 130px;
+}
+
+.skills-container{
+   display: flex;
+}
