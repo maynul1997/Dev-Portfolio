@@ -80,6 +80,7 @@
     border: none;
     border-radius: 5px;
     padding: 18px 35px;
+    /* gap: ; */
  }
 
  /* banner styles */
@@ -144,3 +145,4 @@ main{
    font-weight: bold;
    color: #474747;
 }
+
