@@ -124,12 +124,17 @@ main{
    margin: 0 auto;
 }
 
+main section{
+   margin-top: 130px;
+   margin-bottom: 130px;
+}
+
  /* About Styles */
 .about{
    border-radius: 10px;
    padding: 130px 150px;
    text-align: center;
-   margin-top: 130px;
+   
 }
 
 .about-items{
@@ -151,7 +156,7 @@ main{
 /* Skill part style*/
 
 .skills{
-   margin-top: 130px;
+  
    
 }
 
@@ -159,7 +164,7 @@ main{
 .skill{
    background-color: #ffffff;
    margin-right: 24px;
-   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);;
+   box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
    padding: 30px 30px;
    border-radius: 5px;
    height: 370px;
@@ -168,5 +173,6 @@ main{
 
 .skills-container{
    display: flex;
+   margin-top: 50px;
 }
 
