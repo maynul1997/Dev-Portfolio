@@ -176,3 +176,9 @@ main section{
    margin-top: 50px;
 }
 
+/* Resume Section Styles */
+
+.resume-container{
+   display: flex;
+}
+
