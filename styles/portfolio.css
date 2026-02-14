@@ -188,8 +188,14 @@ main section{
    
 }
 
+.experience-title{
+   font-size: 25px;
+   font-weight: bold;
+}
+
 .experience-sub-title{
    font-size: 20px;
+   font-weight: 600;
 }
 
 .experience-description,.experience-sub-title{
