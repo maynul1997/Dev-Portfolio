@@ -213,6 +213,12 @@ main section{
    margin-top: 50px;
 }
 
+/* Footer Section Style */
+
+.footer-column-title{
+   font-size: 35px;
+   font-weight: bold;
+}
 
 
 
