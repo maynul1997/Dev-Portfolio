@@ -222,6 +222,8 @@ main section{
 
 footer{
    padding: 130px 230px;
+   display: flex;
+   gap: 100px;
 }
 
 
