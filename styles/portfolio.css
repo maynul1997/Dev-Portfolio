@@ -178,8 +178,27 @@ main section{
 
 /* Resume Section Styles */
 
+.resume{
+  
+}
+
 .resume-container{
    display: flex;
    gap: 24px;
+   
 }
+
+.experience-sub-title{
+   font-size: 20px;
+}
+
+.experience-description,.experience-sub-title{
+   color: #757575;
+}
+
+.download-button{
+    margin-bottom: 50px;
+}
+
+
 
