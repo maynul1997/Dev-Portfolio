@@ -191,20 +191,29 @@ main section{
 .experience-title{
    font-size: 25px;
    font-weight: bold;
+   margin-bottom: 10px;
 }
 
 .experience-sub-title{
    font-size: 20px;
    font-weight: 600;
+   margin-bottom: 20px;
 }
 
 .experience-description,.experience-sub-title{
    color: #757575;
 }
 
-.download-button{
-    margin-bottom: 50px;
+.resume hr{
+   margin-top: 30px;
 }
+
+.download-button{
+   text-align: center;
+   margin-top: 50px;
+}
+
+
 
 
 
