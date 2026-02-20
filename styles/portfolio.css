@@ -233,7 +233,8 @@ footer{
 footer input[type="text"] {
    height: 64px;
    border-radius: 5px;
-   
+   background-color: white;
+
 }
 
 
