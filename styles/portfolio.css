@@ -243,5 +243,16 @@ footer input[type="text"], footer input[type="email"]{
 
 }
 
+footer textarea{
+   border-radius: 5px;
+   background-color: rgb(255, 255, 255);
+   display: block;
+   width: 100%;
+   padding: 10px 20px;
+   color: #757575;
+   border: none;
+   margin-bottom: 24px;
+}
+
 
 
