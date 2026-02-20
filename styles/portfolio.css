@@ -230,5 +230,11 @@ footer{
    width: 50%;
 }
 
+footer input[type="text"] {
+   height: 64px;
+   border-radius: 5px;
+   
+}
+
 
 
