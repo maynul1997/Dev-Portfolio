@@ -233,8 +233,11 @@ footer{
 footer input[type="text"]{
    height: 64px;
    border-radius: 5px;
-   background-color: rgb(173, 38, 38);
+   background-color: rgb(255, 255, 255);
    display: block;
+   width: 100%;
+   padding: 10px 20px;
+   color: #757575;
 
 }
 
